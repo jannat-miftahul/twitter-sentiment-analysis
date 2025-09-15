@@ -46,3 +46,7 @@ The project uses Twitter Sentiment Analysis Dataset from Kaggle which contains l
 - numpy
 - matplotlib
 - seaborn
+
+---
+
+### 🌟 Star this repository if you found it helpful!
