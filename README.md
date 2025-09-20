@@ -8,23 +8,23 @@ This project implements multiple machine learning models to classify tweet senti
 
 ## Models Implemented
 
-- Decision Trees
-- Linear Regression
-- Logistic Regression
-- Random Forests
-- Support Vector Machines (SVM)
-- K-Nearest Neighbors (KNN)
-- Gradient Boosting
-- Naive Bayes
+-   Decision Trees
+-   Linear Regression
+-   Logistic Regression
+-   Random Forests
+-   Support Vector Machines (SVM)
+-   K-Nearest Neighbors (KNN)
+-   Gradient Boosting
+-   Naive Bayes
 
 ## Features
 
-- Text preprocessing and TF-IDF vectorization
-- 5-fold cross-validation
-- Model performance comparison
-- ROC curves and AUC scores
-- Confusion matrices visualization
-- Comprehensive performance metrics
+-   Text preprocessing and TF-IDF vectorization
+-   5-fold cross-validation
+-   Model performance comparison
+-   ROC curves and AUC scores
+-   Confusion matrices visualization
+-   Comprehensive performance metrics
 
 ## Getting Started
 
@@ -35,17 +35,17 @@ This project implements multiple machine learning models to classify tweet senti
 
 ## Dataset
 
-The project uses Twitter Sentiment Analysis Dataset from Kaggle which contains labeled tweet data for training the models.
+The project uses the [Twitter Sentiment Analysis Dataset](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis) from Kaggle, which contains labeled tweet data for training the models.
 
 ## Requirements
 
-- Python 3.x
-- Jupyter Notebook
-- scikit-learn
-- pandas
-- numpy
-- matplotlib
-- seaborn
+-   Python 3.x
+-   Jupyter Notebook
+-   scikit-learn
+-   pandas
+-   numpy
+-   matplotlib
+-   seaborn
 
 ---
 
