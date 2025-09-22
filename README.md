@@ -2,6 +2,17 @@
 
 A machine learning project that analyzes sentiment in tweets using both **supervised** and **unsupervised** learning models.
 
+## Table of Contents
+
+-   [Overview](#overview)
+-   [Models Implemented](#models-implemented)
+    -   [Supervised Learning Models](#-supervised-learning-models)
+    -   [Unsupervised Learning Models](#-unsupervised-learning-models)
+-   [Features](#features)
+-   [Getting Started](#getting-started)
+-   [Dataset](#dataset)
+-   [Requirements](#requirements)
+
 ## Overview
 
 This project implements multiple machine learning models to classify tweet sentiments. It uses a labeled dataset of tweets to train and evaluate different classifiers for sentiment analysis and applies clustering techniques for unsupervised sentiment grouping.
