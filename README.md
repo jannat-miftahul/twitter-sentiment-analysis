@@ -6,8 +6,8 @@ A machine learning project that analyzes sentiment in tweets using both **superv
 
 -   [Overview](#overview)
 -   [Models Implemented](#models-implemented)
-    -   [Supervised Learning Models](#-supervised-learning)
-    -   [Unsupervised Learning Models](#-unsupervised-learning)
+    -   [Supervised Learning Models](#supervised-learning)
+    -   [Unsupervised Learning Models](#unsupervised-learning)
 -   [Features](#features)
 -   [Getting Started](#getting-started)
 -   [Dataset](#dataset)
