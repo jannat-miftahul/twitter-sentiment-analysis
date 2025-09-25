@@ -6,8 +6,8 @@ A machine learning project that analyzes sentiment in tweets using both **superv
 
 -   [Overview](#overview)
 -   [Models Implemented](#models-implemented)
-    -   [Supervised Learning Models](#-supervised-learning-models)
-    -   [Unsupervised Learning Models](#-unsupervised-learning-models)
+    -   [Supervised Learning Models](#-supervised-learning)
+    -   [Unsupervised Learning Models](#-unsupervised-learning)
 -   [Features](#features)
 -   [Getting Started](#getting-started)
 -   [Dataset](#dataset)
@@ -19,7 +19,7 @@ This project implements multiple machine learning models to classify tweet senti
 
 ## Models Implemented
 
-### 🔹 Supervised Learning
+### Supervised Learning
 
 -   Decision Trees
 -   Linear Regression
@@ -30,7 +30,7 @@ This project implements multiple machine learning models to classify tweet senti
 -   Gradient Boosting
 -   Naive Bayes
 
-### 🔹 Unsupervised Learning
+### Unsupervised Learning
 
 -   K-Means Clustering
 -   Hierarchical Clustering
